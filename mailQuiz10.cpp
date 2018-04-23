@@ -1,4 +1,4 @@
-//String 이 주어지면, 중복된 char가 없는 가장 긴 서브스트링의 길이를 찾으세요
+
 
 #define _CRT_SECURE_NO_WARNINGS
 #define max_len 100
